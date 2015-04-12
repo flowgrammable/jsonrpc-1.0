@@ -1,1 +1,1 @@
-# jsonrpc-1.0
+# JSON-RPC 1.0
