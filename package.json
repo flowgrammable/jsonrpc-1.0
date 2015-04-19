@@ -15,7 +15,7 @@
     "rpc",
     "1.0"
   ],
-  "author": [{name:"Colton Chojnacki"}, {name:"Jasson Casey"}],
+  "author": [{"name":"Colton Chojnacki"}, {"name":"Jasson Casey"}],
   "license": "Apache2",
   "bugs": {
     "url": "https://github.com/flowgrammable/jsonrpc-js/issues"
