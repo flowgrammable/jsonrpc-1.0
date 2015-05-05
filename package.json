@@ -1,6 +1,6 @@
 {
   "name": "jsonrpc-js",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "JSON-RPC 1.0",
   "main": "lib/jsonrpc",
   "scripts": {
